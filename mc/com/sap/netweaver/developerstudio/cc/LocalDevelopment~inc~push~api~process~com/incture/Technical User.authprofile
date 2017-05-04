@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Partition xmlns:m='http://xml.sap.com/moin'>
+<C n='sap.com/com/sap/ide/es/config/mc/model' i='1' v='2.0.0'/>
+<C n='sap.com/tc/moin/textverticalization' i='2' v='2.0.0'/>
+<M c='1' q='mc.authentication.AuthenticationProfile' i='471DA641B876CFC1813B11DCC1C3003005C6B92C'/>
+<mc.authentication.AuthenticationProfile m:c='1' m:i='E0367719388A457B47F911E69D5AB8CA3AD8BFEA' name='Technical User' type='TECHNICAL_USER'>
+<displayName maxWidth='120' originalText='Technical User' resType='label' translate='false' transUnitId='388A457A47F911E6ACFCB8CA3AD8BFEA' resName='Technical User.ap.name'/>
+<description maxWidth='120' originalText='Profile for service invocation with technical user authentication.' resType='description' translate='false' transUnitId='388A457947F911E688B8B8CA3AD8BFEA' resName='Technical User.ap.description'/>
+</mc.authentication.AuthenticationProfile>
+</Partition>
